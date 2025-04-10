@@ -1,2 +1,2 @@
-# mi_primer_repo
-4to año entornos digitales
+Este es mi primer repositorio en github.
+4to año Entornos Digitales. 
